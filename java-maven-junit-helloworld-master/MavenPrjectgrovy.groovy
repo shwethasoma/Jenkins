@@ -4,7 +4,7 @@ job('First-Maven-Project-via-dsl')
 }
 scm
 {
-  git("git@github.com:shwethasoma/Jenkin.git",master)
+  git("git@github.com:shwethasoma/Jenkins.git",master)
 }
 triggers
 {
