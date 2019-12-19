@@ -12,7 +12,7 @@ triggers
 }
 steps
 {
-  maven('clean package','Sample Maven Project/java-maven-junit-helloworld-master/pom.xml)
+  maven('clean package','Sample Maven Project/java-maven-junit-helloworld-master/pom.xml')
 }
 publishers
 {
